@@ -31,6 +31,8 @@ The replay verifies archived evidence and does not rerun the GPU experiment or
 claim production readiness.
 
 - [v0.2.0 release](https://github.com/jackLei0901/vllm-runtime-reliability-lab/releases/tag/v0.2.0)
+- [Failures that never reach the supervisor](https://github.com/jackLei0901/vllm-runtime-reliability-lab/blob/main/docs/FAILURES_THAT_NEVER_REACH_THE_SUPERVISOR.md)
+  ([中文](https://github.com/jackLei0901/vllm-runtime-reliability-lab/blob/main/docs/FAILURES_THAT_NEVER_REACH_THE_SUPERVISOR.zh-CN.md))
 - [English technical note](https://github.com/jackLei0901/vllm-runtime-reliability-lab/blob/main/docs/V0.2_LAUNCH_POST.md)
 - [中文技术说明](https://github.com/jackLei0901/vllm-runtime-reliability-lab/blob/main/docs/V0.2_LAUNCH_POST.zh-CN.md)
 
